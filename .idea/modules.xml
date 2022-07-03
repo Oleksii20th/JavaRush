@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Build Triangle with help/Build Triangle with help.iml" filepath="$PROJECT_DIR$/Build Triangle with help/Build Triangle with help.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Delete alike word in array/Delete alike word in array.iml" filepath="$PROJECT_DIR$/Delete alike word in array/Delete alike word in array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Display MAX Value with keyboard/Display MAX Value with keyboard.iml" filepath="$PROJECT_DIR$/Display MAX Value with keyboard/Display MAX Value with keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Display Min Value With Keyboard/Display Min Value With Keyboard.iml" filepath="$PROJECT_DIR$/Display Min Value With Keyboard/Display Min Value With Keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Display Name 10 times/Display Name 10 times.iml" filepath="$PROJECT_DIR$/Display Name 10 times/Display Name 10 times.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fill Array values/Fill Array values.iml" filepath="$PROJECT_DIR$/Fill Array values/Fill Array values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVARUSH.iml" filepath="$PROJECT_DIR$/.idea/JAVARUSH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum Value with start to end with use keyboard/Sum Value with start to end with use keyboard.iml" filepath="$PROJECT_DIR$/Sum Value with start to end with use keyboard/Sum Value with start to end with use keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumValue With Keyboard/SumValue With Keyboard.iml" filepath="$PROJECT_DIR$/SumValue With Keyboard/SumValue With Keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabliczka Mnożenia/Tabliczka Mnożenia.iml" filepath="$PROJECT_DIR$/Tabliczka Mnożenia/Tabliczka Mnożenia.iml" />
+    </modules>
+  </component>
+</project>
